@@ -1,0 +1,46 @@
+.login{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    height: 100vh;
+    background-image: url('../img/fon.jpg');
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.asos{
+
+    padding: 8% 5%;
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(17, 127, 253, 0.733);
+}
+.asos .title{
+    text-align: center;
+    color: rgb(170, 92, 243);
+    margin-bottom: 25px;
+}
+.asos .title h1{
+    font-size: 45px;
+}
+.input-b{
+    width: 280px;
+    text-decoration: none;
+}
+.input-b input{
+    width: 100%;
+    padding: 10px 15px;
+    margin: 10px 0;
+    border: 0.6px solid rgb(173, 99, 241);
+    border-radius: 5px;
+    background: #f1f1f1;
+    outline: none;
+    border-radius: 8px;
+}
+.input-b .sub{
+    font-size: 18px;
+    color: #f1f1f1;
+    background-color: rgb(170, 92, 243);
+}
+.input-b p{
+    font-size: 16px;
+    color: #fff;
+}
